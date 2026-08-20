@@ -1,0 +1,35 @@
+:root {
+  --color-ink: #18352f;
+  --color-ink-soft: #49615b;
+  --color-cream: #f7f8f4;
+  --color-surface: #ffffff;
+  --color-line: #dce3dc;
+  --color-lime: #dfff62;
+  --color-lime-strong: #c9f33d;
+  --color-lime-soft: #f1ffc3;
+  --color-blue-soft: #dff0ff;
+  --color-orange-soft: #ffe4c8;
+  --color-dark-surface: #193c35;
+  --color-white: #ffffff;
+
+  --font-sans: Inter, "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+  --font-display: "Arial Rounded MT Bold", "Hiragino Maru Gothic ProN", var(--font-sans);
+
+  --space-1: 0.5rem;
+  --space-2: 0.75rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2rem;
+  --space-6: 3rem;
+  --space-7: 4rem;
+  --space-8: 6rem;
+
+  --radius-sm: 0.75rem;
+  --radius-md: 1.25rem;
+  --radius-lg: 2rem;
+  --radius-pill: 999px;
+
+  --shadow-card: 0 22px 70px rgba(29, 57, 50, 0.12);
+  --shadow-soft: 0 12px 36px rgba(29, 57, 50, 0.08);
+  --container: 70rem;
+}

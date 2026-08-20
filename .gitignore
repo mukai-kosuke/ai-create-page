@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# 個人用のClaude Code設定は共有しない
+CLAUDE.local.md
+.claude/settings.local.json

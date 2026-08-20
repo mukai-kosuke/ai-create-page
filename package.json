@@ -1,0 +1,20 @@
+{
+  "name": "ai-create-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Claude Code初心者がTaskFlow AIのLP改善を通して基本操作を学ぶ教材",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate": "node scripts/validate.mjs",
+    "validate:starter": "node scripts/validate.mjs --starter",
+    "check:links": "node scripts/check-links.mjs",
+    "workshop:check": "node scripts/workshop-check.mjs",
+    "workshop:advanced:install": "node scripts/install-advanced.mjs"
+  },
+  "devDependencies": {
+    "vite": "^8.2.1"
+  }
+}
